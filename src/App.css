@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  
 }
 
 .App-logo {
@@ -36,3 +37,9 @@
     transform: rotate(360deg);
   }
 }
+ /* .App div{
+   float: left;
+   font-size: 50px;
+   margin-left: 15px;
+   background-color: cadetblue;
+ } */
